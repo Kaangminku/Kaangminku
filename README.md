@@ -21,16 +21,18 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 **RIP Joonku Kang, from your brother Minku Kang**
-
+<br/>
+_http://github.com/junku901/machine_learning_
+<br/>
 I've never forgotten you when you write this code as a high school student in Seoul.
-
-You got job offers from California
+<br/>
+You got job offers from California <br/>
 and some prominent tech companies from Korea when you were even a high schooler.
-
+<br/>
 You had talked about your GitHub even though I did not know about the ABC of machine learning.
-
-He passed away on 16 June 2018.
-I miss you Joonku Kang so much.
-
-Best regards,
-Minku Kang
+<br/>
+He passed away on 16 June 2018. <br/>
+I miss you Joonku Kang so much.<br/>
+<br/>
+Best regards,<br/>
+Minku Kang<br/>
