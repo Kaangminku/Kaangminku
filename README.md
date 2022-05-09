@@ -1,7 +1,7 @@
-Preventive Medicine Physician <br/>
-MD-PhD researcher at Korea University MedicineCancel changes <br/>
-public mental health | health inequalities | community health | social epidemiology | health policy | human rights <br/>
-he/his <br/>
+- Preventive Medicine Physician <br/>
+- MD-PhD researcher at Korea University MedicineCancel changes <br/>
+- public mental health | health inequalities | community health | social epidemiology | health policy | human rights <br/>
+- he/his <br/>
 <br/>
 ORCID: 0000-0002-7226-8159
 <br/>
