@@ -2,11 +2,11 @@
 - MD-PhD researcher at Korea University MedicineCancel changes
 - public mental health | health inequalities | community health | social epidemiology | health policy | human rights
 - he/his
-
+<br/>
 ORCID: 0000-0002-7226-8159
-
+<br/>
 📍Seoul | Contact <br/>
-E-mail: mk7man@gmail.com
+E-mail: mk7man@gmail.com <br/>
 Tel: +82-2-2286-1174
 
 <!---
