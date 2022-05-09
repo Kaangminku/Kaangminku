@@ -11,13 +11,6 @@ _________________________ <br/>
 📍Seoul | Contact <br/>
 E-mail: mk7man@gmail.com <br/>
 Tel: +82-2-2286-1174
-
-<!---
-Kaangminku/Kaangminku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<br/>
 <br/>
 <br/>
 _________________________<br/>
