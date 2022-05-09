@@ -1,0 +1,14 @@
+- Preventive Medicine Physician
+- MD-PhD researcher at Korea University Medicine
+- he/his | public mental health | health inequalities | community health | social epidemiology | health policy | human rights
+
+ORCID: 0000-0002-7226-8159
+
+📍Seoul | Contact 
+E-mail: mk7man@gmail.com
+Tel: +82-2-2286-1174
+
+<!---
+Kaangminku/Kaangminku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
