@@ -15,7 +15,9 @@ Tel: +82-2-2286-1174
 <br/>
 _________________________<br/>
 <br/>
+
 **RIP Joonku Kang, from your brother Minku Kang**
+
 <br/>
 _http://github.com/junku901/machine_learning_
 <br/>
