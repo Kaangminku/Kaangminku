@@ -17,9 +17,8 @@ _________________________<br/>
 <br/>
 
 **RIP Joonku Kang, from your brother Minku Kang**
-
 <br/>
-_http://github.com/junku901/machine_learning_
+_http://github.com/junku901/machine_learning
 <br/>
 <br/>
 I've never forgotten you when you write this code as a high school student in Seoul.
