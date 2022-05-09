@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 <br/>
-_________________________
+_________________________<br/>
 **RIP Joonku Kang, from your brother Minku Kang**
 <br/>
 _http://github.com/junku901/machine_learning_
