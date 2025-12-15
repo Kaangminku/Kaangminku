@@ -1,6 +1,6 @@
 - Public Health & Preventive Medicine Physician <br/>
 - MD. PhD candidate at Korea University Medicine <br/>
-- social epidemiology | health inequalities | community health | public mental health | health policy | human rights <br/>
+- social epidemiology | health inequalities | community health | public mental health | health policy <br/>
 - he/his <br/>
 <br/>
 ORCID: 0000-0002-7226-8159
@@ -9,8 +9,8 @@ ORCID: 0000-0002-7226-8159
 _________________________ <br/>
 <br/>
 📍Seoul | Contact <br/>
-E-mail: mk7man@gmail.com <br/>
-Tel: +82-2-2286-1174
+E-mail: kangminku.kr@gmail.com <br/>
+Tel: +82-31-725-5924
 <br/>
 <br/>
 _________________________<br/>
